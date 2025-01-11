@@ -1,0 +1,24 @@
+.footer-links {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: 8px;
+  }
+  
+  .footer-links a {
+    color: #ff7043;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links a:hover {
+    color: #ff5722;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 12px;
+  }
+  
